@@ -1,6 +1,6 @@
 [package]
 name = "pinecone-client"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Jamal S jsaied99@gmail.com"]
 description = "The Pinecone Rust client"
