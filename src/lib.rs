@@ -1,3 +1,5 @@
+#![doc(html_root_url = "https://docs.rs/pinecone-client/0.1.2")]
+
 //! # Pinecone Client
 //!
 //! `pinecone_client` is a collection of utilities to make performing certain
