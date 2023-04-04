@@ -6,6 +6,7 @@ authors = ["Jamal S jsaied99@gmail.com"]
 description = "The Pinecone Rust client"
 license = "MIT OR Apache-2.0"
 documentation = "https://docs.rs/pinecone-client"
+repository = "https://github.com/jsaied99/pinecone-rust-client/"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
